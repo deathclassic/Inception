@@ -15,11 +15,15 @@
 * Установлен FTP сервер для работы с контейнером WordPress
 * Установлен Adminer для работы с БД
 
-```make``` сборка проекта \n
-```make build``` запуск контейнеров \n
-```make down``` остановка контейнеров \n
-```make clean``` удаление БД и файлов WordPress \n
-```make fclean``` полная очистка конфигурации \n
+```make``` сборка проекта
+
+```make build``` запуск контейнеров
+
+```make down``` остановка контейнеров
+
+```make clean``` удаление БД и файлов WordPress
+
+```make fclean``` полная очистка конфигурации
 
  На выходе получаем готовый сайт на WordPress:
 <img width="979" alt="image" src="https://user-images.githubusercontent.com/86204727/203172684-7f735495-218b-4097-8550-67b6c3e3e96c.png">
